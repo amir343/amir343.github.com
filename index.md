@@ -13,7 +13,7 @@ I'm Amir Moulavi, a programmer, hacker, writer, distributed computing enthusiast
 <div class='section'>
 <h1 id='work'>Work</h1>
 I'm a consultant at <a href="http://jayway.com">Jayway</a> where we design and solve different problem domains related to software development to a wide range of various customers. <br/>
-See my <a href="/talks.html">Talks</a>, <a href="/teaching.html">Teachings</a>, <a href="/publication.html">Publications</a>, <a href="/blogposts.html">Blog posts</a>, <a href="/professional.html">Professional Activities</a> or <a href="http://amirmoulavi.com/wiki">Wiki</a> pages for more info on what I have been doing work/academic-wise.
+See my <a href="/talks.html">Talks</a>, <a href="/teaching.html">Teachings</a>, <a href="/publication.html">Publications</a>, <a href="/blogposts.html">Blog posts</a>, <a href="/professional.html">Professional Activities</a>.
 </div>
 
 <div class='section'>
