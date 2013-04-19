@@ -6,7 +6,7 @@ title: Home
 
 <h1 id='welcome'>Welcome</h1>
 
-<img class='inset left' title='Amir Moulavi' src='/images/amirm.jpg' alt='Photo of Amir' />
+<img class='inset left' title='Amir Moulavi' src='/images/amirm.jpg' alt='Photo of Amir' height="95" width="100" />
 
 I'm Amir Moulavi, a programmer, hacker, writer, distributed computing enthusiast/engineer, scalability/concurrency lover and programming languages anxious! I'm also a husband, a book addict and a (used to be) guitar player (electric guitar)!
 
