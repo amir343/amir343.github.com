@@ -12,7 +12,7 @@ I'm Amir Moulavi, a programmer, hacker, writer, distributed computing enthusiast
 
 <div class='section'>
 <h1 id='work'>Work</h1>
-I'm a consultant at <a href="http://jayway.com">Jayway</a> where we design and solve different problem domains related to software development to a wide range of various customers. <br/>
+I'm a Developer/Architect at <a href="http://mojang.com">Mojang</a> where we build cool games like <a href="http://minecraft.net">Minecraft</a>, <a href="http://scrolls.com">Scrolls</a>. I am responsible for backend development and currently working on <a href="http://realms.minecraft.net">Realms</a>. <br/>
 See my <a href="/talks.html">Talks</a>, <a href="/teaching.html">Teachings</a>, <a href="/publication.html">Publications</a>, <a href="/blogposts.html">Blog posts</a>, <a href="/professional.html">Professional Activities</a>.
 </div>
 

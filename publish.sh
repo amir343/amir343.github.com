@@ -11,6 +11,7 @@ echo '===================================================='
 echo 'Uploading site:' $FTP_SITE
 echo '===================================================='
 lftp -u $1,$2 $FTP_SITE <<EOF
+set ftp:ssl-allow no
 cd public_html
 mirror -Rp 
 quit 0
